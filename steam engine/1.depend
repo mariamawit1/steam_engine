@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1707653546 source:c:\users\jerry\downloads\codeblocks-ep-master\1\main.cpp
+	<stdio.h>
+	<GL/glut.h>
+	<math.h>
+
+1426374928 c:\users\jerry\downloads\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426374928 c:\users\jerry\downloads\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
